@@ -50,6 +50,10 @@ return
 Send {Delete}
 return
 
+#h::
+Send {Backspace}
+return
+
 #k::
 Send +{End}
 Send {Delete}

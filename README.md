@@ -16,3 +16,4 @@ I suggest mapping Caps Lock to the windows key for maximum comfort.
 | **Windows + A** | Home  | Start of line |
 | **Windows + K** | Shift + End, Delete  | Delete from cursor to the end of the line |
 | **Windows + D** | Delete  | Delete character under cursor |
+| **Windows + H** | Backspace  | Delete character in front of cursor |
